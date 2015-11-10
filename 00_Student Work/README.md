@@ -24,7 +24,7 @@ Create a single web page experience that leverages data from at least one public
 
 
 #####Student Links
-* Abhi G- []()
+* Abhi G- [Video Trek](http://ag3754.nyuad.im/videotrek/)
 * Abhi V - [Drone Strikes In Yemen](http://av1509.nyuad.im/Project2/)
 * Andrew - []()
 * Brooke - [Death Row](http://bnhopkins.com/Death%20Row/)
@@ -57,7 +57,7 @@ Create a single web page experience that, upon user input, responds with data fr
 
 
 #####Student Links
-* Abhi G- [Lesson Org](http://ag3754.nyuad.im/)
+* Abhi G- [Lesson Org](http://ag3754.nyuad.im/bing)
 * Abhi V - [Scandinavia for Spring Break](http://av1509.nyuad.im/Project1/)
 * Andrew - [Talk to Me](http://aac511.nyuad.im/Mashups/Week%20of%20Sept%2030/feelings-talker.html)
 * Brooke - [SoulMusic](http://bnhopkins.com/SoulMusic)
